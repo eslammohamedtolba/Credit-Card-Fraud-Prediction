@@ -14,6 +14,7 @@ you can install them using pip: pip install pandas matplotlib seaborn scikit-lea
 
 ## Overview
 The code performs the following steps to build and evaluate the credit card fraud prediction model:
+
 1- Data Loading and Exploration
 -Load the credit card transaction dataset from a CSV file.
 -Display the first and last rows of the dataset.
